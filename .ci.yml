@@ -1,0 +1,3 @@
+build: make build
+script: make test
+language: python3
