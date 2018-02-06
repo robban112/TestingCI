@@ -7,4 +7,4 @@ build:
 .PHONY: test
 
 test:
-	@echo Ran the tests
+	python3 tests.py
